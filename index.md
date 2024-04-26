@@ -4,4 +4,4 @@ I have a blog
 
 ## Joseph's Blog
 
-i like [link to fast.ai](https://www.fast.ai)
+i like [fast.ai](https://www.fast.ai)
